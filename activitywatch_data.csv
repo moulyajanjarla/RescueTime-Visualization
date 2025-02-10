@@ -1,0 +1,356 @@
+id,timestamp,duration,data,app
+363,2025-02-10 14:24:57.251000+00:00,4.265,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+364,2025-02-10 14:24:56.959000+00:00,5.148,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+365,2025-02-10 14:24:56.959000+00:00,5.148,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+366,2025-02-10 14:24:56.959000+00:00,5.131,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+367,2025-02-10 14:24:56.959000+00:00,5.131,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+368,2025-02-10 14:24:56.959000+00:00,5.131,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+369,2025-02-10 14:24:56.959000+00:00,5.131,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+359,2025-02-10 14:24:53.193000+00:00,3.636,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+360,2025-02-10 14:24:53.193000+00:00,3.084,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+361,2025-02-10 14:24:53.193000+00:00,3.084,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+362,2025-02-10 14:24:53.193000+00:00,3.084,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+358,2025-02-10 14:24:53.145000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+355,2025-02-10 14:24:45.604000+00:00,7.304,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+356,2025-02-10 14:24:45.604000+00:00,7.143,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+357,2025-02-10 14:24:45.604000+00:00,7.143,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+353,2025-02-10 14:24:45.214000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+354,2025-02-10 14:24:44.947000+00:00,0.0,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+346,2025-02-10 14:24:34.332000+00:00,10.813,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+347,2025-02-10 14:24:34.332000+00:00,10.33,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+348,2025-02-10 14:24:34.332000+00:00,10.342,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+349,2025-02-10 14:24:34.332000+00:00,10.342,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+350,2025-02-10 14:24:34.332000+00:00,10.615,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+351,2025-02-10 14:24:34.332000+00:00,10.615,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+352,2025-02-10 14:24:34.332000+00:00,10.279,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+340,2025-02-10 14:24:29.140000+00:00,4.232,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+342,2025-02-10 14:24:29.140000+00:00,4.153,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+343,2025-02-10 14:24:29.140000+00:00,4.153,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+341,2025-02-10 14:24:28.741000+00:00,5.174,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+344,2025-02-10 14:24:28.741000+00:00,5.117,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+345,2025-02-10 14:24:28.741000+00:00,5.117,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+338,2025-02-10 14:24:28.512000+00:00,0.059,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+339,2025-02-10 14:24:28.512000+00:00,0.059,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+335,2025-02-10 14:24:14.373000+00:00,13.392,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+336,2025-02-10 14:24:14.373000+00:00,10.239,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+337,2025-02-10 14:24:14.373000+00:00,10.239,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+332,2025-02-10 14:23:55.901000+00:00,18.254,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+333,2025-02-10 14:23:55.901000+00:00,10.246,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+334,2025-02-10 14:23:55.901000+00:00,10.246,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+331,2025-02-10 14:23:49.746000+00:00,5.654,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+329,2025-02-10 14:22:45.931000+00:00,63.544,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+330,2025-02-10 14:22:45.931000+00:00,10.238,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+328,2025-02-10 14:22:45.717000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+326,2025-02-10 14:22:45.588000+00:00,0.129,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+320,2025-02-10 14:22:43.521000+00:00,1.572,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+322,2025-02-10 14:22:43.521000+00:00,1.027,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+321,2025-02-10 14:22:43.187000+00:00,2.138,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+323,2025-02-10 14:22:43.187000+00:00,2.055,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+324,2025-02-10 14:22:43.187000+00:00,2.055,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+325,2025-02-10 14:22:43.187000+00:00,2.055,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+327,2025-02-10 14:22:43.187000+00:00,2.055,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+317,2025-02-10 14:22:40.401000+00:00,2.255,"{'app': 'chrome.exe', 'title': 'ChatGPT - Google Chrome'}",chrome.exe
+318,2025-02-10 14:22:40.401000+00:00,2.056,"{'app': 'chrome.exe', 'title': 'ChatGPT - Google Chrome'}",chrome.exe
+319,2025-02-10 14:22:40.401000+00:00,2.056,"{'app': 'chrome.exe', 'title': 'ChatGPT - Google Chrome'}",chrome.exe
+313,2025-02-10 14:22:39.498000+00:00,0.667,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+314,2025-02-10 14:22:39.498000+00:00,0.0,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+315,2025-02-10 14:22:39.498000+00:00,0.0,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+316,2025-02-10 14:22:39.498000+00:00,0.0,"{'app': 'chrome.exe', 'title': 'AMD Software Engineer Role - Google Chrome'}",chrome.exe
+312,2025-02-10 14:22:37.424000+00:00,1.493,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+311,2025-02-10 14:22:37.301000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+310,2025-02-10 14:22:27.032000+00:00,9.83,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+309,2025-02-10 14:22:26.819000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+306,2025-02-10 14:22:19.244000+00:00,7.436,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+307,2025-02-10 14:22:19.244000+00:00,7.175,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+308,2025-02-10 14:22:19.244000+00:00,7.436,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+303,2025-02-10 14:22:11.055000+00:00,7.401,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+304,2025-02-10 14:22:10.628000+00:00,8.201,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+305,2025-02-10 14:22:10.628000+00:00,8.201,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - python  fetch_activitywatch_data.py'}",WindowsTerminal.exe
+302,2025-02-10 14:22:07.579000+00:00,2.633,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+301,2025-02-10 14:21:19.276000+00:00,47.675,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+299,2025-02-10 14:21:17.776000+00:00,1.151,"{'app': 'Code.exe', 'title': 'visualize_activitywatch.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+300,2025-02-10 14:21:17.776000+00:00,1.034,"{'app': 'Code.exe', 'title': 'visualize_activitywatch.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+298,2025-02-10 14:21:17.547000+00:00,0.021,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+297,2025-02-10 14:20:24.074000+00:00,53.23,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+293,2025-02-10 14:20:23.986000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+294,2025-02-10 14:20:23.986000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+295,2025-02-10 14:20:23.986000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+296,2025-02-10 14:20:23.986000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+291,2025-02-10 14:20:15.152000+00:00,8.416,"{'app': 'Code.exe', 'title': 'visualize_activitywatch.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+292,2025-02-10 14:20:15.152000+00:00,8.261,"{'app': 'Code.exe', 'title': 'visualize_activitywatch.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+289,2025-02-10 14:20:14.740000+00:00,0.305,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+290,2025-02-10 14:20:14.740000+00:00,0.0,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+288,2025-02-10 14:20:09.640000+00:00,4.674,"{'app': 'Code.exe', 'title': 'Save As'}",Code.exe
+286,2025-02-10 14:20:09.632000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+287,2025-02-10 14:20:09.632000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+284,2025-02-10 14:19:58.057000+00:00,11.063,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+285,2025-02-10 14:19:58.057000+00:00,10.297,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+282,2025-02-10 14:19:45.027000+00:00,12.736,"{'app': 'Code.exe', 'title': 'Save As'}",Code.exe
+283,2025-02-10 14:19:45.027000+00:00,10.245,"{'app': 'Code.exe', 'title': 'Save As'}",Code.exe
+276,2025-02-10 14:19:36.835000+00:00,7.3,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+277,2025-02-10 14:19:36.163000+00:00,8.273,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+278,2025-02-10 14:19:36.163000+00:00,8.273,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+279,2025-02-10 14:19:36.163000+00:00,8.281,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+280,2025-02-10 14:19:36.163000+00:00,8.281,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+281,2025-02-10 14:19:36.163000+00:00,8.238,"{'app': 'Code.exe', 'title': '● import pandas as pd • Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+273,2025-02-10 14:19:34.774000+00:00,1.041,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+274,2025-02-10 14:19:34.774000+00:00,1.041,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+275,2025-02-10 14:19:34.774000+00:00,1.041,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+272,2025-02-10 14:19:29.652000+00:00,4.715,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+270,2025-02-10 14:19:29.212000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+271,2025-02-10 14:19:29.212000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+268,2025-02-10 14:19:24.972000+00:00,4.119,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+269,2025-02-10 14:19:24.972000+00:00,4.119,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+265,2025-02-10 14:19:20.353000+00:00,4.599,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+266,2025-02-10 14:19:20.353000+00:00,4.19,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+267,2025-02-10 14:19:20.353000+00:00,4.19,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+264,2025-02-10 14:19:19.706000+00:00,0.156,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+263,2025-02-10 14:17:42.762000+00:00,96.726,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+259,2025-02-10 14:17:42.484000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+260,2025-02-10 14:17:42.484000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+261,2025-02-10 14:17:42.484000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+262,2025-02-10 14:17:42.484000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+257,2025-02-10 14:17:36.347000+00:00,5.808,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+258,2025-02-10 14:17:36.347000+00:00,5.11,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+255,2025-02-10 14:17:34.513000+00:00,1.209,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+256,2025-02-10 14:17:34.513000+00:00,1.023,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+247,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+248,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+249,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+250,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+251,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+252,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+253,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+254,2025-02-10 14:17:29.293000+00:00,5.118,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+243,2025-02-10 14:17:28.259000+00:00,0.076,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+244,2025-02-10 14:17:28.259000+00:00,0.0,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+246,2025-02-10 14:17:28.259000+00:00,0.0,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+245,2025-02-10 14:17:28.093000+00:00,1.04,"{'app': 'Code.exe', 'title': '● fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+241,2025-02-10 14:17:26.754000+00:00,1.187,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+242,2025-02-10 14:17:26.754000+00:00,1.024,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+240,2025-02-10 14:17:03.587000+00:00,22.833,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+238,2025-02-10 14:17:03.383000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+239,2025-02-10 14:17:03.383000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+236,2025-02-10 14:17:03.247000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+237,2025-02-10 14:16:59.996000+00:00,3.078,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+235,2025-02-10 14:16:59.119000+00:00,3.559,"{'app': 'Code.exe', 'title': 'fetch_activitywatch_data.py - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+233,2025-02-10 14:16:58.645000+00:00,0.318,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+234,2025-02-10 14:16:58.645000+00:00,0.0,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+231,2025-02-10 14:16:51.440000+00:00,6.759,"{'app': 'Code.exe', 'title': 'Save As'}",Code.exe
+232,2025-02-10 14:16:51.229000+00:00,7.228,"{'app': 'Code.exe', 'title': 'Save As'}",Code.exe
+227,2025-02-10 14:16:48.968000+00:00,1.229,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+228,2025-02-10 14:16:48.723000+00:00,2.289,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+229,2025-02-10 14:16:48.723000+00:00,2.045,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+230,2025-02-10 14:16:48.723000+00:00,2.045,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+226,2025-02-10 14:16:40.447000+00:00,7.371,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+224,2025-02-10 14:16:39.974000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+225,2025-02-10 14:16:39.974000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+217,2025-02-10 14:16:39.952000+00:00,0.022,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+221,2025-02-10 14:16:39.952000+00:00,0.022,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+222,2025-02-10 14:16:39.952000+00:00,0.022,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+223,2025-02-10 14:16:39.952000+00:00,0.022,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+218,2025-02-10 14:16:38.383000+00:00,1.033,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+219,2025-02-10 14:16:38.383000+00:00,1.033,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+220,2025-02-10 14:16:38.383000+00:00,1.033,"{'app': 'Code.exe', 'title': 'Untitled-1 - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+215,2025-02-10 14:16:29.313000+00:00,8.348,"{'app': 'Code.exe', 'title': 'Welcome - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+216,2025-02-10 14:16:29.313000+00:00,8.267,"{'app': 'Code.exe', 'title': 'Welcome - Rescuetime Visualization - Visual Studio Code'}",Code.exe
+210,2025-02-10 14:16:27.981000+00:00,1.252,"{'app': 'Code.exe', 'title': 'Rescuetime Visualization - Visual Studio Code'}",Code.exe
+211,2025-02-10 14:16:27.981000+00:00,1.163,"{'app': 'Code.exe', 'title': 'Rescuetime Visualization - Visual Studio Code'}",Code.exe
+212,2025-02-10 14:16:27.981000+00:00,1.163,"{'app': 'Code.exe', 'title': 'Rescuetime Visualization - Visual Studio Code'}",Code.exe
+214,2025-02-10 14:16:26.948000+00:00,0.0,"{'app': 'Code.exe', 'title': ''}",Code.exe
+209,2025-02-10 14:16:26.945000+00:00,0.494,"{'app': 'Code.exe', 'title': ''}",Code.exe
+213,2025-02-10 14:16:26.945000+00:00,0.0,"{'app': 'Code.exe', 'title': ''}",Code.exe
+203,2025-02-10 14:16:26.869000+00:00,0.079,"{'app': 'Code.exe', 'title': ''}",Code.exe
+208,2025-02-10 14:16:20.029000+00:00,6.209,"{'app': 'Code.exe', 'title': 'Open Folder'}",Code.exe
+204,2025-02-10 14:16:19.915000+00:00,6.203,"{'app': 'Code.exe', 'title': 'Open Folder'}",Code.exe
+205,2025-02-10 14:16:19.915000+00:00,6.203,"{'app': 'Code.exe', 'title': 'Open Folder'}",Code.exe
+206,2025-02-10 14:16:19.915000+00:00,6.203,"{'app': 'Code.exe', 'title': 'Open Folder'}",Code.exe
+207,2025-02-10 14:16:19.915000+00:00,6.478,"{'app': 'Code.exe', 'title': 'Open Folder'}",Code.exe
+198,2025-02-10 14:16:17.822000+00:00,1.175,"{'app': 'Code.exe', 'title': 'Welcome - Visual Studio Code'}",Code.exe
+199,2025-02-10 14:16:17.457000+00:00,2.066,"{'app': 'Code.exe', 'title': 'Welcome - Visual Studio Code'}",Code.exe
+200,2025-02-10 14:16:17.457000+00:00,2.066,"{'app': 'Code.exe', 'title': 'Welcome - Visual Studio Code'}",Code.exe
+201,2025-02-10 14:16:17.457000+00:00,2.066,"{'app': 'Code.exe', 'title': 'Welcome - Visual Studio Code'}",Code.exe
+202,2025-02-10 14:16:17.457000+00:00,2.066,"{'app': 'Code.exe', 'title': 'Welcome - Visual Studio Code'}",Code.exe
+197,2025-02-10 14:16:14.287000+00:00,2.863,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+195,2025-02-10 14:16:08.166000+00:00,5.172,"{'app': 'Code.exe', 'title': 'Dockerfile.dockerfile - Frauddetection - Visual Studio Code'}",Code.exe
+196,2025-02-10 14:16:08.166000+00:00,5.158,"{'app': 'Code.exe', 'title': 'Dockerfile.dockerfile - Frauddetection - Visual Studio Code'}",Code.exe
+189,2025-02-10 14:16:07.138000+00:00,0.393,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+190,2025-02-10 14:16:06.860000+00:00,1.027,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+191,2025-02-10 14:16:06.860000+00:00,1.027,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+192,2025-02-10 14:16:06.860000+00:00,1.027,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+193,2025-02-10 14:16:06.860000+00:00,1.027,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+194,2025-02-10 14:16:06.860000+00:00,1.027,"{'app': 'Code.exe', 'title': 'Visual Studio Code'}",Code.exe
+186,2025-02-10 14:16:05.111000+00:00,1.4,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+187,2025-02-10 14:16:05.111000+00:00,1.011,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+188,2025-02-10 14:16:05.111000+00:00,1.011,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+182,2025-02-10 14:16:02.432000+00:00,2.553,"{'app': 'SearchHost.exe', 'title': 'Search'}",SearchHost.exe
+183,2025-02-10 14:16:02.432000+00:00,2.035,"{'app': 'SearchHost.exe', 'title': 'Search'}",SearchHost.exe
+184,2025-02-10 14:16:02.432000+00:00,2.035,"{'app': 'SearchHost.exe', 'title': 'Search'}",SearchHost.exe
+185,2025-02-10 14:16:02.432000+00:00,2.035,"{'app': 'SearchHost.exe', 'title': 'Search'}",SearchHost.exe
+180,2025-02-10 14:16:02.246000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+181,2025-02-10 14:16:01.295000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+177,2025-02-10 14:16:00.711000+00:00,1.372,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+178,2025-02-10 14:16:00.711000+00:00,1.036,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+179,2025-02-10 14:16:00.711000+00:00,1.036,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+176,2025-02-10 14:15:58.667000+00:00,1.898,"{'app': 'explorer.exe', 'title': 'Rescuetime Visualization - File Explorer'}",explorer.exe
+175,2025-02-10 14:15:58.429000+00:00,0.06,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+172,2025-02-10 14:15:52.311000+00:00,6.025,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+173,2025-02-10 14:15:52.311000+00:00,5.101,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+174,2025-02-10 14:15:52.311000+00:00,5.101,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+171,2025-02-10 14:15:52.077000+00:00,0.096,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+167,2025-02-10 14:15:48.409000+00:00,3.494,"{'app': 'chrome.exe', 'title': 'Visa SW Engineer - (2023/2024 Passed-out) | SmartRecruiters - Google Chrome'}",chrome.exe
+168,2025-02-10 14:15:48.409000+00:00,3.081,"{'app': 'chrome.exe', 'title': 'Visa SW Engineer - (2023/2024 Passed-out) | SmartRecruiters - Google Chrome'}",chrome.exe
+169,2025-02-10 14:15:48.409000+00:00,3.081,"{'app': 'chrome.exe', 'title': 'Visa SW Engineer - (2023/2024 Passed-out) | SmartRecruiters - Google Chrome'}",chrome.exe
+170,2025-02-10 14:15:48.409000+00:00,3.081,"{'app': 'chrome.exe', 'title': 'Visa SW Engineer - (2023/2024 Passed-out) | SmartRecruiters - Google Chrome'}",chrome.exe
+165,2025-02-10 14:15:41.830000+00:00,6.436,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+166,2025-02-10 14:15:41.830000+00:00,6.155,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+163,2025-02-10 14:15:19.770000+00:00,21.888,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+164,2025-02-10 14:15:19.770000+00:00,10.262,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+156,2025-02-10 14:15:19.629000+00:00,0.059,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+157,2025-02-10 14:15:19.629000+00:00,0.059,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+158,2025-02-10 14:15:19.629000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+159,2025-02-10 14:15:19.629000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+160,2025-02-10 14:15:19.629000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+161,2025-02-10 14:15:19.629000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+162,2025-02-10 14:15:19.629000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+155,2025-02-10 14:14:22.555000+00:00,56.855,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 98 - Manganato - Google Chrome'}",chrome.exe
+153,2025-02-10 14:14:18.417000+00:00,4.009,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 99 - Manganato - Google Chrome'}",chrome.exe
+154,2025-02-10 14:14:18.417000+00:00,3.107,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 99 - Manganato - Google Chrome'}",chrome.exe
+151,2025-02-10 14:14:12.633000+00:00,5.696,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 52 - Manganato - Google Chrome'}",chrome.exe
+152,2025-02-10 14:14:12.633000+00:00,5.14,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 52 - Manganato - Google Chrome'}",chrome.exe
+150,2025-02-10 14:12:33.270000+00:00,98.987,"{'app': 'chrome.exe', 'title': 'Merry Marbling Chapter 51 - Manganato - Google Chrome'}",chrome.exe
+148,2025-02-10 14:12:32.128000+00:00,1.097,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+149,2025-02-10 14:12:32.128000+00:00,1.027,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+143,2025-02-10 14:12:31.562000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+144,2025-02-10 14:12:31.562000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+145,2025-02-10 14:12:31.562000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+146,2025-02-10 14:12:31.562000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+147,2025-02-10 14:12:31.562000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+142,2025-02-10 14:12:14.936000+00:00,16.382,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+139,2025-02-10 14:11:57.962000+00:00,16.723,"{'app': 'powershell.exe', 'title': 'Administrator: Windows PowerShell'}",powershell.exe
+140,2025-02-10 14:11:57.962000+00:00,11.022,"{'app': 'powershell.exe', 'title': 'Administrator: Windows PowerShell'}",powershell.exe
+141,2025-02-10 14:11:57.962000+00:00,11.022,"{'app': 'powershell.exe', 'title': 'Administrator: Windows PowerShell'}",powershell.exe
+133,2025-02-10 14:11:57.387000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+134,2025-02-10 14:11:57.387000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+135,2025-02-10 14:11:57.387000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+136,2025-02-10 14:11:57.387000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+137,2025-02-10 14:11:57.387000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+129,2025-02-10 14:11:45.404000+00:00,11.61,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+130,2025-02-10 14:11:45.404000+00:00,10.443,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+131,2025-02-10 14:11:45.404000+00:00,10.288,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+132,2025-02-10 14:11:45.404000+00:00,10.288,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+122,2025-02-10 14:11:44.891000+00:00,0.0,"{'app': 'explorer.exe', 'title': 'UnlockingWindow'}",explorer.exe
+123,2025-02-10 14:11:44.891000+00:00,0.0,"{'app': 'explorer.exe', 'title': 'UnlockingWindow'}",explorer.exe
+125,2025-02-10 14:11:44.498000+00:00,0.0,"{'app': 'explorer.exe', 'title': 'UnlockingWindow'}",explorer.exe
+107,2025-02-10 14:11:43.801000+00:00,0.496,"{'app': 'LockApp.exe', 'title': ""We like this picture, so we're sharing it with you.""}",LockApp.exe
+127,2025-02-10 14:11:43.463000+00:00,1.01,"{'app': 'LockApp.exe', 'title': ""We like this picture, so we're sharing it with you.""}",LockApp.exe
+128,2025-02-10 14:11:43.463000+00:00,1.01,"{'app': 'LockApp.exe', 'title': ""We like this picture, so we're sharing it with you.""}",LockApp.exe
+102,2025-02-10 14:11:43.131000+00:00,0.139,"{'app': 'unknown', 'title': ''}",unknown
+105,2025-02-10 14:11:43.131000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+112,2025-02-10 14:11:43.131000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+94,2025-02-10 14:11:43.083000+00:00,0.187,"{'app': 'unknown', 'title': ''}",unknown
+100,2025-02-10 14:11:43.083000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+101,2025-02-10 14:11:43.083000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+95,2025-02-10 14:01:49.227000+00:00,2.42,"{'app': 'unknown', 'title': ''}",unknown
+91,2025-02-10 14:01:49.088000+00:00,2.533,"{'app': 'unknown', 'title': ''}",unknown
+93,2025-02-10 14:01:49.057000+00:00,3.726,"{'app': 'unknown', 'title': ''}",unknown
+96,2025-02-10 14:01:49.057000+00:00,3.726,"{'app': 'unknown', 'title': ''}",unknown
+97,2025-02-10 14:01:49.057000+00:00,3.726,"{'app': 'unknown', 'title': ''}",unknown
+119,2025-02-10 14:01:41.726000+00:00,5.933,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+121,2025-02-10 14:01:41.726000+00:00,5.933,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+124,2025-02-10 14:01:41.726000+00:00,5.933,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+126,2025-02-10 14:01:41.726000+00:00,5.933,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+104,2025-02-10 14:01:41.687000+00:00,5.972,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+114,2025-02-10 14:01:41.687000+00:00,5.972,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+115,2025-02-10 14:01:41.687000+00:00,5.972,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+116,2025-02-10 14:01:41.687000+00:00,5.972,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+118,2025-02-10 14:01:41.687000+00:00,5.972,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+90,2025-02-10 14:01:41.457000+00:00,6.202,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+92,2025-02-10 14:01:41.457000+00:00,6.202,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+88,2025-02-10 13:58:47.343000+00:00,180.463,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+87,2025-02-10 13:58:46.874000+00:00,0.143,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+85,2025-02-10 13:58:06.619000+00:00,40.197,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+86,2025-02-10 13:58:06.619000+00:00,10.254,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+84,2025-02-10 13:58:06.454000+00:00,0.0,"{'app': 'unknown', 'title': ''}",unknown
+80,2025-02-10 13:57:53.294000+00:00,12.84,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+81,2025-02-10 13:57:53.294000+00:00,10.25,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+82,2025-02-10 13:57:53.294000+00:00,10.25,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+83,2025-02-10 13:57:53.294000+00:00,10.25,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe - pip  install requests pandas matplotlib seaborn plotly torch torchvision scikit-learn'}",WindowsTerminal.exe
+79,2025-02-10 13:57:51.254000+00:00,1.724,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+76,2025-02-10 13:57:50.819000+00:00,0.111,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+77,2025-02-10 13:57:50.819000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+78,2025-02-10 13:57:50.819000+00:00,0.0,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+74,2025-02-10 13:57:39.313000+00:00,11.401,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+75,2025-02-10 13:57:39.313000+00:00,10.227,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+71,2025-02-10 13:57:37.932000+00:00,1.254,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+72,2025-02-10 13:57:37.932000+00:00,1.025,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+73,2025-02-10 13:57:37.932000+00:00,1.025,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+68,2025-02-10 13:57:34.054000+00:00,3.382,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+69,2025-02-10 13:57:34.054000+00:00,3.201,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+70,2025-02-10 13:57:34.054000+00:00,3.079,"{'app': 'WindowsTerminal.exe', 'title': 'C:\\Windows\\System32\\cmd.exe'}",WindowsTerminal.exe
+64,2025-02-10 13:57:29.965000+00:00,3.522,"{'app': 'explorer.exe', 'title': 'Rescuetime Visualization - File Explorer'}",explorer.exe
+65,2025-02-10 13:57:29.726000+00:00,4.096,"{'app': 'explorer.exe', 'title': 'Rescuetime Visualization - File Explorer'}",explorer.exe
+66,2025-02-10 13:57:29.726000+00:00,4.096,"{'app': 'explorer.exe', 'title': 'Rescuetime Visualization - File Explorer'}",explorer.exe
+67,2025-02-10 13:57:29.726000+00:00,4.096,"{'app': 'explorer.exe', 'title': 'Rescuetime Visualization - File Explorer'}",explorer.exe
+63,2025-02-10 13:57:00.316000+00:00,29.073,"{'app': 'explorer.exe', 'title': 'Moulya Janjarla - File Explorer'}",explorer.exe
+61,2025-02-10 13:56:57.555000+00:00,2.458,"{'app': 'explorer.exe', 'title': 'Home - File Explorer'}",explorer.exe
+62,2025-02-10 13:56:57.555000+00:00,2.035,"{'app': 'explorer.exe', 'title': 'Home - File Explorer'}",explorer.exe
+59,2025-02-10 13:56:57.262000+00:00,0.096,"{'app': 'explorer.exe', 'title': 'File Explorer'}",explorer.exe
+60,2025-02-10 13:56:57.262000+00:00,0.0,"{'app': 'explorer.exe', 'title': 'File Explorer'}",explorer.exe
+57,2025-02-10 13:56:55.512000+00:00,1.388,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+58,2025-02-10 13:56:55.512000+00:00,1.025,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+54,2025-02-10 13:56:50.022000+00:00,5.252,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+55,2025-02-10 13:56:50.022000+00:00,5.184,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+56,2025-02-10 13:56:50.022000+00:00,5.184,"{'app': 'chrome.exe', 'title': 'moulyajanjarla/RescueTime-Visualization - Google Chrome'}",chrome.exe
+50,2025-02-10 13:55:46.990000+00:00,62.588,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+51,2025-02-10 13:55:46.990000+00:00,10.188,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+52,2025-02-10 13:55:46.990000+00:00,10.188,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+53,2025-02-10 13:55:46.990000+00:00,10.188,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+48,2025-02-10 13:55:25.730000+00:00,20.992,"{'app': 'chrome.exe', 'title': 'Untitled1.ipynb - Colab - Google Chrome'}",chrome.exe
+49,2025-02-10 13:55:25.730000+00:00,10.235,"{'app': 'chrome.exe', 'title': 'Untitled1.ipynb - Colab - Google Chrome'}",chrome.exe
+46,2025-02-10 13:55:24.896000+00:00,0.583,"{'app': 'chrome.exe', 'title': 'Untitled - Colab - Google Chrome'}",chrome.exe
+47,2025-02-10 13:55:24.896000+00:00,0.0,"{'app': 'chrome.exe', 'title': 'Untitled - Colab - Google Chrome'}",chrome.exe
+45,2025-02-10 13:55:14.659000+00:00,10.048,"{'app': 'chrome.exe', 'title': 'Google Colab - Google Chrome'}",chrome.exe
+38,2025-02-10 13:55:12.791000+00:00,1.641,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+39,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+40,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+41,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+42,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+43,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+44,2025-02-10 13:55:12.791000+00:00,1.03,"{'app': 'chrome.exe', 'title': 'Untitled - Google Chrome'}",chrome.exe
+34,2025-02-10 13:55:06.837000+00:00,5.781,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+35,2025-02-10 13:55:06.837000+00:00,5.323,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+36,2025-02-10 13:55:06.837000+00:00,5.323,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+37,2025-02-10 13:55:06.837000+00:00,5.108,"{'app': 'chrome.exe', 'title': 'Frauddetection.ipynb - Colab - Google Chrome'}",chrome.exe
+33,2025-02-10 13:55:01.714000+00:00,4.932,"{'app': 'chrome.exe', 'title': 'Google Colab - Google Chrome'}",chrome.exe
+31,2025-02-10 13:54:51.489000+00:00,10.048,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+32,2025-02-10 13:54:51.489000+00:00,9.192,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+30,2025-02-10 13:53:59.262000+00:00,52.129,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+29,2025-02-10 13:53:52.106000+00:00,6.995,"{'app': 'chrome.exe', 'title': 'localhost:5600/api/0/buckets/ - Google Chrome'}",chrome.exe
+27,2025-02-10 13:53:46.974000+00:00,4.983,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+28,2025-02-10 13:53:46.974000+00:00,4.103,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+25,2025-02-10 13:53:34.517000+00:00,12.319,"{'app': 'chrome.exe', 'title': 'localhost:5600/api/0/buckets/ - Google Chrome'}",chrome.exe
+26,2025-02-10 13:53:34.517000+00:00,10.252,"{'app': 'chrome.exe', 'title': 'localhost:5600/api/0/buckets/ - Google Chrome'}",chrome.exe
+19,2025-02-10 13:53:32.001000+00:00,2.462,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+20,2025-02-10 13:53:32.001000+00:00,2.042,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+21,2025-02-10 13:53:32.001000+00:00,2.042,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+22,2025-02-10 13:53:32.001000+00:00,2.042,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+23,2025-02-10 13:53:32.001000+00:00,2.042,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+24,2025-02-10 13:53:32.001000+00:00,2.042,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+18,2025-02-10 13:53:00.086000+00:00,31.898,"{'app': 'chrome.exe', 'title': 'ActivityWatch - Google Chrome'}",chrome.exe
+16,2025-02-10 13:52:48.151000+00:00,11.77,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+17,2025-02-10 13:52:48.151000+00:00,10.166,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+15,2025-02-10 13:52:34.028000+00:00,13.321,"{'app': 'chrome.exe', 'title': 'ActivityWatch - Google Chrome'}",chrome.exe
+13,2025-02-10 13:52:30.962000+00:00,2.041,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+12,2025-02-10 13:52:30.856000+00:00,3.049,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+14,2025-02-10 13:52:30.856000+00:00,3.049,"{'app': 'chrome.exe', 'title': 'New Tab - Google Chrome'}",chrome.exe
+10,2025-02-10 13:52:22.716000+00:00,7.801,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+11,2025-02-10 13:52:22.716000+00:00,7.109,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
+9,2025-02-10 13:51:44.545000+00:00,37.818,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+7,2025-02-10 13:51:42.504000+00:00,1.514,"{'app': 'Docker Desktop.exe', 'title': 'Docker Desktop'}",Docker Desktop.exe
+8,2025-02-10 13:51:42.504000+00:00,1.022,"{'app': 'Docker Desktop.exe', 'title': 'Docker Desktop'}",Docker Desktop.exe
+4,2025-02-10 13:51:36.361000+00:00,5.116,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+5,2025-02-10 13:51:34.717000+00:00,7.236,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+6,2025-02-10 13:51:34.717000+00:00,7.236,"{'app': 'explorer.exe', 'title': ''}",explorer.exe
+3,2025-02-10 13:51:31.662000+00:00,2.032,"{'app': 'SearchHost.exe', 'title': 'Search'}",SearchHost.exe
+1,2025-02-10 13:50:38.753000+00:00,51.894,"{'app': 'chrome.exe', 'title': 'RescueTime Data Visualization - Google Chrome'}",chrome.exe
