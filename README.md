@@ -103,5 +103,5 @@ Deploy Streamlit app online (e.g., Streamlit Cloud, Heroku)
 
 Developed by Sai Venkata Moulya Janjarla. Built using Python, ActivityWatch API, Pandas, PyTorch, and Streamlit.
 
-📌 GitHub Repo: https://github.com/your-username/ActivityWatch-Visualization
+📌 GitHub Repo: https://github.com/moulyajanjarla/RescueTime-Visualization
 
